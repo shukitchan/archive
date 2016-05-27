@@ -7,7 +7,7 @@ Now! is a YME plugins that I developed back in 2005. It allows user to associate
 
 Here is a screenshot of the page inside the music player
 
-![Alt text](/screen1.jpg?raw=true "Screen Shot")
+![Alt text](/now/screen1.jpg?raw=true "Screen Shot")
 
 The ActiveX plugin is simple. The core logic is here.
 
